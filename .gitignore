@@ -2,7 +2,7 @@
 .DS_Store
 
 # Maven stuff
-/target
+target
 
 # Eclipse stuff
 /.classpath
