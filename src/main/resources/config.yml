@@ -1,0 +1,6 @@
+# Benches by minnymin3
+
+# Should signs be required on the side of the stairs
+signs: true
+# Should the player be auto oriented when they sit down
+rotate: false
